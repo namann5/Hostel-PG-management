@@ -1,0 +1,7 @@
+{
+  "projectId": "3afdff1f-15d4-455d-989d-0591b6d9da36",
+  "createdAt": 1766915403771,
+  "startupCommands": [
+    "cd PROJECT/backend; mvn spring-boot:run"
+  ]
+}
